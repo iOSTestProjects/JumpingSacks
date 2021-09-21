@@ -1,0 +1,40 @@
+{
+    "currentdate": "2018-02-27",
+    "data": [{
+        "date": "2017-11-05",
+        "data": [{
+            "id": 268,
+            "schedulId": 268,
+            "userId": 70,
+            "completedOn": "0000-00-00 00:00:00",
+            "currentDate": "2018-02-27",
+            "workouts": {
+                "workoutDetails": {
+                    "workoutDetails": "1Day Gain Muscle GYM",
+                    "workoutName": "Gain Muscle",
+                    "day": "Day 1",
+                    "inComplete": "0"
+                },
+                "stages": [{
+                    "id": 2,
+                    "mainExerciseName": "Warmup",
+                    "exerciseSets": 1,
+                    "exerciseList": [{
+                            "exerciseId": 602,
+                            "name": "Lumping Jacks",
+                            "setReps": "2X25",
+                            "sort": 0
+                        },
+                        {
+                            "exerciseId": 603,
+                            "name": "Jumping Sacks",
+                            "setReps": "2X254",
+                            "sort": 1
+                        }
+                    ]
+                }]
+            }
+        }]
+    }],
+    "status": 200
+}
